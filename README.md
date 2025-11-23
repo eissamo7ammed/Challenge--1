@@ -36,7 +36,7 @@ Since this is a static web component, you can view it by:
 
 1.  Cloning the repository:
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/css-course-card.git](https://github.com/YOUR-USERNAME/css-course-card.git)
+    git clone [https://github.com/eissamo7ammed/css-course-card.git](https://github.com/eissamo7ammed/css-course-card.git)
     ```
 2.  Opening `index.html` in your browser.
 
