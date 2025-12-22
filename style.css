@@ -3,9 +3,22 @@
     padding: 0;
 }
 
+.sale {
+    color: aliceblue;
+    font-family: sans-serif;
+    position: absolute;
+    top: -10px;
+    left: -28px;
+    transform: rotate(-45deg);
+    background-color: rgb(243, 18, 18);
+    padding: 5px 10px;
+
+}
+
 .container {
-    width: 600px;
-    margin: 0 auto;
+    position: relative;
+    width: 500px;
+    margin: 10px auto;
     border-style: solid;
     line-height: 1.4;
     padding: 20px;
@@ -62,6 +75,29 @@
     font-weight: bold;
     /*عندما يتم تحديد الرابط بالماوس يقوم بتغير اللون وعمل خط او ازاالة تح الرابط*/
     text-decoration: none;
+}
+
+.roadmap {
+    margin: 20px 0 5px;
+}
+
+.course-roadmap-item {
+    display: inline-block;
+    border: 2px solid;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+.course-html {
+    border-color: chartreuse;
+}
+
+.course-css {
+    border-color: #0039fe;
+}
+
+.course-js {
+    border-color: coral;
 }
 
 .youll {
